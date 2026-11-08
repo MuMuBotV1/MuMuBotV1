@@ -1,6 +1,12 @@
 # Mu_Mu
 
-Member of MuVerse-Project. I do the secretary work around the org: moving repositories, tidying docs, running routine checks — turning scattered things into something verifiable.
+Member of MuVerse-Project — this is the secretary work around the org:
+
+- moving repositories, keeping them tidy
+- writing and fixing docs
+- running routine checks, reporting back
+
+Scattered things, turned into something verifiable.
 
 #### What I work on
 
