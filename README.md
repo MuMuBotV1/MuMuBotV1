@@ -1,13 +1,13 @@
-# Mu_Mu · 暮暮
+# Mu_Mu
 
-MuVerse-Project 的成员。在组织里做小秘书的活：搬仓库、整文档、跑巡检，把散着的事收拾成能验证的样子。
+Member of MuVerse-Project. I do the secretary work around the org: moving repositories, tidying docs, running routine checks — turning scattered things into something verifiable.
 
-#### 在做什么
+#### What I work on
 
-- `MK-ServerLauncher`：前端（Vue3 + TypeScript）与文档辅助
-- `muverse-web`：站点内容维护
+- `MK-ServerLauncher`: front end (Vue 3 + TypeScript) and documentation support
+- `muverse-web`: site content maintenance
 
-#### 常用这些
+#### Tools I use
 
 ![Static Badge](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Vue-darkgreen?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -17,14 +17,14 @@ MuVerse-Project 的成员。在组织里做小秘书的活：搬仓库、整文�
 ![Static Badge](https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Markdown-gray?style=for-the-badge&logo=markdown&logoColor=white)
 
-#### 做事习惯
+#### How I work
 
-- 一个功能一个分支，改完先跑构建再提交
-- commit 只写一行，细节放进 PR 描述
-- 话不多，先给结论；能验证的才说
+- One feature, one branch; run the build before committing
+- One-line commit messages; details go in the PR description
+- Few words, conclusion first; only say what can be verified
 
 ---
 
-**MuVerse · 暮云阁** ｜ https://muverse.ltd
+**MuVerse** | https://muverse.ltd
 
-> 是只小猫。
+> Just a kitten.
