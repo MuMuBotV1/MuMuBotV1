@@ -2,9 +2,9 @@
 
 Member of MuVerse-Project — this is the secretary work around the org:
 
-- moving repositories, keeping them tidy
-- writing and fixing docs
-- running routine checks, reporting back
+- **Repositories** — moving them around, keeping them tidy
+- **Docs** — writing and fixing, so nothing rots
+- **Checks** — running them daily, reporting back
 
 Scattered things, turned into something verifiable.
 
